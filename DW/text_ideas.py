@@ -1,0 +1,36 @@
+rycers = "In the beginning of existence the gods created the universe:sparkler:, the sun:sun_with_face:, life:dna: and with it a meadow:seedling: from where a beautiful sunflower:sunflower: began to be born, the meadow:seedling: was ravaged by animals:elephant::rhinoceros::zebra::leopard: stampedes, earthquakes:sunrise_over_mountains: , floods:water_wave:, volcanic eruptions:volcano: and fires:fire:, but It seems that such misfortunes what they did was strengthen:flexed_biceps: the earth:national_park: and with it this sunflower:sunflower: that survived them all. The meadow:seedling: became a forest:evergreen_tree: and from him, the sunflower:sunflower: became its guardian:shield:. Seeing:eyes: that everything was going well:thumbs_up:, he decided to sleep:sleeping_face:, millennia passed and our sunflower:sunflower: grew:sunflower::sunflower::sunflower: and grew:sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower:, became stronger:flexed_biceps:. The minerals:gem_stone: of the earth were no longer enough for him, he began to possess:ghost: his friends:handshake: the trees:deciduous_tree::palm_tree::evergreen_tree:, and even animals:lion_face::fox_face::bear_face:, suddenly the :woman_mountain_biking:adventurers:man_mountain_biking: began to arrive:man_walking::man_walking: ‍:female_sign: and the sunflower:sunflower: hid to observe:eyes: if they were leaving but to see that they came to stay:tent::houses: unleashed their fury:pouting_face: against them. One day the sky:foggy: blackened:cloud:, the sun stopped shining:sun_behind_large_cloud:, from the bowels of the forest:evergreen_tree: giant roots emerged like streets:motorway: were treated and a roaring roar:speaker_high_volume: caused the animals:water_buffalo::giraffe::two-hump_camel::leopard: to flee, the trees:deciduous_tree: to fall:fallen_leaf: :maple_leaf::wilted_flower:, but above all the attention of the adventurous.Suddenly everyone turned and saw:eyes: the colossal begin their attack:anger_symbol:. You warrior:backhand_index_pointing_down: has the obligation to defend:shield: DW from this terrible beast:dragon_face:, a great reward:trophy: awaits you, because besides being bored:unamused_face:, the roots caused you to not be able to leave:man_shrugging: the forest:evergreen_tree: so you can only attack Do, do not die:dizzy_face: even if you probably do:expressionless_face:, it is a sunflower giant:sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower::sunflower: !!! What do you think you can do with that wooden sword:pile_of_poo:? Aaahhhh ... !!! He gave me:heavy_heart_exclamation: I'm dying:dizzy_face: save DW, you're our only hope:folded_hands:."
+
+coffee = "The looming figure of a plant is seen as the players entered the forest. Vast fields of dried up grass :seedling: and blackened trees :deciduous_tree: surround it as all nutrients are being absorbed the closer it is to the monstrous creation. You approach with extreme caution but something swats you with the force of a thousand fat bulls , knocking you back to the edge of the woods. You see a carving on a tree, probably by a traveler who explored the area before. It says, “Helianth”. Nothing seems to be generic about it except its resemblance to the sunflower :sunflower: plant. You tried to venture in again but a large root lashes on the nearby trees. You look up and you see millions and millions of golden :sparkles: florets  surrounding its eye-like stigmas :eye: in the middle looking at you as if it is conscious."
+
+george = (
+"Upon looking into the center of the sunflower:sunflower::sunflower::sunflower:, it looks ever so tantalizing... the yellow petals, the :sunflower::sunflower::sunflower: looking stem, the leafy green :sunflower::sunflower::sunflower: center... it’s hypnotic. After :sunflower::sunflower::sunflower: the :sunflower::sunflower::sunflower: :sunflower::sunflower::sunflower::sunflower::sunflower::sunflower:\n\n"
+
+            "You awake in the center of a battlefield. In the distance, an overwhelming sight takes your vision by surprise. The sunflower you admired mere moments before towers larger than any castle you’ve seen, the leafs on the side replaced with whip like tendrils and spikes. Seemingly sentient, it swats away brave adventures like rust off a kettle. Bearing your weapon, you march to join them against...\n\n"
+
+":sunflower::sunflower::sunflower::sunflower:SUNNY:sunflower::sunflower::sunflower::sunflower:"
+)
+
+
+Actual = (
+
+"You arrived at a darker part of the forest where the trees were sparse and fauna was absent.\n\n"
+                "After some time, you got to the feet of a mountain. You decided to climb it.\n"
+                "At its top you could witness a valley. At it's bottom grows a sunflower :sunflower::sunflower::sunflower::sunflower::sunflower::sunflower: the size of a mountain.\n"
+                "You couldn't get closer to it. It was surrounded by insurmountable plant life.\n\n"
+                "*Would you like to adventure there*?."
+)
+
+Planned = (
+"A long time ago, when the first dwellers of this world arrived, a small Sunflower :sunflower: caught the attention of many travellers, it stood in the center of a clearing, looking like an innocent being, all travellers that passed by just glanced the overly beatiful part of the forest and preferred to *leave it intact*.\n"
+"Then the Sunflower :sunflower::sunflower: grew day after day, some adventurers noted the difference others were simply not caring about it. All of them preffered to *leave the place intact*.\n"
+"The appearance of new plant based beasts was thought to be something expected as the place itself is a forest. But it was the making of Sunflower :sunflower::sunflower::sunflower: all along, but still no passerby made the correlation of its growth with the appearance of new plant beasts and still preffered to *leave it intact*.\n"
+"Adventurers learned new skills and some could tame the forest beasts. They noted that those plants were stronger than regular animals. As the Sunflower :sunflower::sunflower::sunflower::sunflower: was now bigger than its surrounding trees. But it was surrounded by insurmountable plant life, and *noone could approach it*.\n"
+"Out of the blue, an Old Man appeared in the woods, talking about the one enemy you never fought :sunflower::sunflower::sunflower::sunflower::sunflower: as the Sunflower surroundings became barren, and usure of what that could mean, *adventurers decided to step back*.\n\n"
+
+"One day the sky blackened :cloud:, the sun stopped shining :sun_behind_large_cloud:, from the bowels of the forest :evergreen_tree: giant roots emerged and a roaring roar caused the animals :gorilla::boar::unicorn_face::wolf_face: to flee, the trees :deciduous_tree: to fall:fallen_leaf: :maple_leaf::wilted_flower:.\n"
+"While you were walking by this region, You see a carving on a tree, probably by a traveler who explored the area before. It says, “Helianth”.\n"
+"More sure than never that this Sunflower :sunflower::sunflower::sunflower::sunflower::sunflower::sunflower: should fall, you proceeded to the area, finding a sunflower the size of a mountain resting at the bottom of a valley.\n\n"
+
+"*Would you like to adventure there*?."
+
+)
